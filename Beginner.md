@@ -1,34 +1,62 @@
 # Beginner
 ## Let's get started!
-  * Try playing with DartPad, the online for Flutter and Dart  
-  * Use the installation guides to help get your environment ready
+  * Try playing with [DartPad][1], the online for Flutter and Dart        //尝试使用 Flutter 和 Dart 的在线编辑器 `DartPad`
+  * Use the [installation guides][2] to help get your environment ready   //使用安装指南来帮组您准备好环境
+
+[1]: https://dartpad.dev/ 
+[2]: https://flutter.dev/docs/get-started/install
 
 ## While you're installing
-  * Get to know the Flutter docs
-  * Visit the samples gallery
-  * Get a feel for Dart code
-  * Subscibe to the Flutter and Dart blogs
-  * Check out StackOverflow's Flutter tag
-  * Go subscribe to the YouTube channel
-      * ...and watch Widget of the Week until your IDE is ready!
+  * [Get to know the Flutter docs][3]                                   //Flutter 文档
+  * Visit [the samples gallery][4]                                      //Flutter 例子
+  * [Get a feel for Dart code][5]                                       //Dart dev 示例
+  * Subscibe to the [Flutter][6] and [Dart blogs][7]                    //订阅Flutter 和 Dart 的博客
+  * Check out [StackOverflow's Flutter tag][8]                          //查看 StackOverflow 的 Flutter 标签
+  * Go subscribe to the [YouTube channel][9]                            //订阅其 YouTube 频道
+      * ...and watch [Widget of the Week][10] until your IDE is ready!  //并查看“本周的小工具”的视频，直到您的IDE准备就绪！
+
+[3]: https://flutter.dev/docs
+[4]: https://flutter.github.io/samples
+[5]: https://dart.dev/samples
+[6]: https://medium.com/flutter
+[7]: https://medium.com/dartlang
+[8]: https://stackoverflow.com/questions/tagged/flutter
+[9]: https://youtube.com/flutterdev
+[10]: https://www.youtube.com/watch?v=b_sQ9bMltGU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG
+
 
 ## Coming from another SDK or language ?
-  * Flutter conversion guides
-  * What Makes Flutter Different
-  * Using hot reload
+  * [Flutter conversion guides][11]      //Flutter 转换指南
+  * [What Makes Flutter Different][12]   //是什么让 Flutter 与众不同
+  * [Using hot reload][13]               //使用热重载
 
-## Everything's a widget!
-  * Read the Introduction to Widgets
-  * This guide explains how to compose layouts with widgets
+[11]: https://flutter.dev/docs/get-started/flutter-for/
+[12]: https://www.youtube.com/watch?v=l-YO9CmaSUM
+[13]: https://flutter.dev/docs/development/tools/hot-reload
+
+## Everything's a widget! //一切都是 widget
+  * Read the [Introduction to Widgets][14]                               //阅读小部件简介
+  * [This guide][15] explains how to compose [layouts][15] with widgets  //本指南解释了如何使用小部件组合布局
+
+[14]: https://flutter.dev/docs/development/ui/widgets-intro
+[15]: https://flutter.dev/docs/development/ui/layout
 
 ## Learn about Dart
-  * Visit Dart.dev the official site for Dart
-  * Learn why Flutter uses Dart
-  * Complete the Dart cheatsheet codelab
+  * Visit [Dart.dev][16] the official site for Dart  //访问Dart的官方网站`Dart.dev`
+  * Learn [why Flutter uses Dart][17]                //了解Flutter使用Dart的原因
+  * Complete the [Dart cheatsheet][18] codelab       //完成 `Dart cheatsheet` 代码实验
 
-## Let's dive in!
-  * Building your first Flutter app, part 1
-  * Building your first Flutter app, part 2
+[16]: https://dart.dev/
+[17]: https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf
+[18]: https://dart.dev/codelabs/dart-cheatsheet
+
+
+## Let's dive in! //让我们一探究竟！
+  * [Building your first Flutter app, part 1][19]
+  * [Building your first Flutter app, part 2][20]
+
+[19]: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1/#0
+[20]: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2
 
 ## Making your app look cool
   * One option is Material design
