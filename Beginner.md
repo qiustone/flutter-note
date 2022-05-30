@@ -16,3 +16,26 @@
   * Flutter conversion guides
   * What Makes Flutter Different
   * Using hot reload
+
+## Everything's a widget!
+  * Read the Introduction to Widgets
+  * This guide explains how to compose layouts with widgets
+
+## Learn about Dart
+  * Visit Dart.dev the official site for Dart
+  * Learn why Flutter uses Dart
+  * Complete the Dart cheatsheet codelab
+
+## Let's dive in!
+  * Building your first Flutter app, part 1
+  * Building your first Flutter app, part 2
+
+## Making your app look cool
+  * One option is Material design
+    * Check out their components!
+    * And these Material codelabs!
+  * Need inspiration?
+    * Try Johannes Milke's videos
+    * Or Super-Declaratives's widget workshops
+    * Or a community-maintained index like Awesome Flutter!
+
