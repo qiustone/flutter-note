@@ -39,3 +39,43 @@
     * Or Super-Declaratives's widget workshops
     * Or a community-maintained index like Awesome Flutter!
 
+## Find out how to make networking work!
+  * Have you seen the Flutter Cookbook? It has a set of articles on networking
+  * Many apps use the http package
+  * Learn about how to deserialize JSON
+    * Thers's also a sample!
+
+## Navigate with confidence
+  * The Flutter cookbook has a set of articles for that, too!
+  * By the way, you may see some stuff about Flutter's Router and more advanced navigation.They're great, but totally not required!
+
+## Flutter and State Management
+  * Watch an I/O talk on what "state management" means for Flutter
+  * You'd be surprised how far you can get with just a StatefulWidget!
+  * A good next step is to try Provider with Change Notifier
+    * Watch this Boring Show episode
+    * Or these samples:  
+      provider_counter,  
+      provider_shopper
+      
+## Use plugins to access native APIs
+  * Read the guide on using packages and plugins
+  * Watch Matt and Andrew use the barometer on the Boring Show
+  * Check out pub.dev, the package ecosystem for Dart and Flutter
+    * Learn about package scores
+    * ...and the Flutter Favorites
+
+## Test your code! 
+  * Read the guide to testing in Flutter
+  * Read through the testing sample, which shows multiple types of tests
+  * Practice your skills with the Testing codelab!
+
+## Join the Community!
+  * Check out the community directory
+  * Join the Flutter Community Slack and check out their blog
+  * Follow the Flutteristas on Twitter!
+  * Find a Flutter meetup near you
+  * Submit your app to itsallwidgets.com
+  * Participate in the making of Flutter by filing issues and giving feedback
+
+  
