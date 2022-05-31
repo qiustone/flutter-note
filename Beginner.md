@@ -59,13 +59,20 @@
 [20]: https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2
 
 ## Making your app look cool
-  * One option is Material design
-    * Check out their components!
-    * And these Material codelabs!
+  * One option is [Material][21] design
+    * Check out [their components][22]!
+    * And these [Material codelabs][23]!
   * Need inspiration?
-    * Try Johannes Milke's videos
-    * Or Super-Declaratives's widget workshops
-    * Or a community-maintained index like Awesome Flutter!
+    * Try [Johannes Milke's videos][24]
+    * Or [Super-Declaratives's widget workshops][25]
+    * Or a community-maintained index like [Awesome Flutter][26]!
+
+[21]: https://material.io/
+[22]: https://material.io/components?platform=flutter
+[23]: https://codelabs.developers.google.com/codelabs/mdc-101-flutter
+[24]: https://www.youtube.com/channel/UC0FD2apauvegCcsvqIBceLA
+[25]: https://www.youtube.com/watch?v=dOwVPZSJQuo&list=PLR12su153J5PmGomy9Iit0pW-5NlkyzVg
+[26]: https://github.com/Solido/awesome-flutter#ui
 
 ## Find out how to make networking work!
   * Have you seen the Flutter Cookbook? It has a set of articles on networking
